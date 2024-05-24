@@ -6,9 +6,18 @@ header {
     padding: 1em;
     text-align: center;
     font-size: 100px;
+    color: white
 }
 
-img {
+.img {
     margin: 0 auto;
     width: 200 px;
+}
+
+.text{
+    color: white
+}
+
+.quote{
+    font-size: 2em;
 }
